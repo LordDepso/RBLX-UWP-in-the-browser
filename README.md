@@ -1,5 +1,5 @@
 # Roblox UWP in the browser
-Before you complain, you will need to install [TamperMonkey](https://www.tampermonkey.net/) <br/>
+You will need to install [TamperMonkey](https://www.tampermonkey.net/) <br/>
 Create a new script script, copy 'n paste the `tamper-monkey.js` source code, and finally save.
 
 

@@ -1,4 +1,6 @@
 # Roblox UWP in the browser
+**This works with Fluster**
+
 You will need to install [TamperMonkey](https://www.tampermonkey.net/) <br/>
 Create a new script script, copy 'n paste the `tamper-monkey.js` source code, and finally save.
 
